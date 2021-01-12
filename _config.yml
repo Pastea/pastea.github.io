@@ -32,9 +32,10 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Pastea      # change to your twitter homepage
     - https://github.com/Pastea       # change to your github homepage
+    - https://www.linkedin.com/in/andrea-mattiazzo
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/andrea-mattiazzo
+
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
