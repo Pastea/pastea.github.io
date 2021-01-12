@@ -87,7 +87,7 @@ theme_mode:   dark
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pastea.github.io/assets/img/avatar.jpg
+avatar: https://pastea.github.io/assets/img/avatar.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
