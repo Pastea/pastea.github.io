@@ -17,5 +17,3 @@ my name is Andrea and I am a 26 years old cyber security specialist. I started m
 I love to break stuff and discover how things work since I was a little boy, my first contact with the cyber security field happened when I was around 13 years old thanks to the curiosity related to understand how hacking programs works on PC videogames. I am very curious by nature and this is due to the satisfaction that I have when I learn new technical stuff and connect the pieces together.
 
 Outside the security area I am enthusiast about basketball, I have played for many years and also I have covered for around 10 years the role of referee getting to take parte in matches at national and international level.
-
-For a more detailed journey on cybersec field check out my [curriculum vitae](/assets/file/CV.pdf)
